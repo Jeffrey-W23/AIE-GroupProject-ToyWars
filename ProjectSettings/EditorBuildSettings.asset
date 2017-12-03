@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Toy Wars/Scenes/Main Menu.unity
+    guid: f2914f85bd2f26e4f9d1e5f590d5c142
+  - enabled: 1
+    path: Assets/Toy Wars/Scenes/GameScene.unity
+    guid: 2138cbb46c5621141b8f055f227de353
